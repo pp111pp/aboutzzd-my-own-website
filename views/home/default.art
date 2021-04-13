@@ -1,0 +1,484 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Name of your web site">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>张子典的简历</title>
+
+    <!-- STYLES -->
+
+    <link rel="stylesheet" type="text/css" href="/home/css/plugins.css" />
+    <link rel="stylesheet" type="text/css" href="/home/css/style.css" />
+    <!--[if lt IE 9]> <script type="text/javascript" src="js/modernizr.custom.js"></script> <![endif]-->
+    <!-- /STYLES -->
+
+</head>
+
+<body>
+
+    <!-- WRAPPER ALL -->
+    <div class="arlo_tm_wrapper_all">
+
+        <div id="arlo_tm_popup_blog">
+            <div class="container">
+                <div class="inner_popup scrollable"></div>
+            </div>
+            <span class="close"><a href="#"></a></span>
+        </div>
+
+        <!-- PRELOADER -->
+        <div class="arlo_tm_preloader">
+            <div class="spinner_wrap">
+                <div class="spinner"></div>
+            </div>
+        </div>
+        <!-- /PRELOADER -->
+
+        <!-- MOBILE MENU -->
+        <div class="arlo_tm_mobile_header_wrap">
+            <div class="main_wrap">
+                <div class="logo">
+                    <img src="/home/img/logo/mylogo.png" alt="" />
+                </div>
+                <div class="arlo_tm_trigger">
+                    <div class="hamburger hamburger--collapse-r">
+                        <div class="hamburger-box">
+                            <div class="hamburger-inner"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="arlo_tm_mobile_menu_wrap">
+                <div class="mob_menu">
+                    <ul class="anchor_nav">
+                        <li><a href="#home">主页</a></li>
+                        <li><a href="#about">关于我</a></li>
+                        <!-- <li><a href="#services">Services</a></li> -->
+                        <li><a href="#portfolio">图片欣赏</a></li>
+                        <li><a href="#services">我的项目</a></li>
+                        <li><a href="#contact">联系我</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- /MOBILE MENU -->
+
+        <!-- CONTENT -->
+        <div class="arlo_tm_content">
+
+            <!-- LEFTPART -->
+            <div class="arlo_tm_leftpart_wrap">
+                <div class="leftpart_inner">
+                    <div class="logo_wrap">
+                        <a href="#"><img src="/home/img/logo/mylogo.png" alt="" /></a>
+                    </div>
+                    <div class="menu_list_wrap">
+                        <ul class="anchor_nav">
+                            <li><a href="#home">主页</a></li>
+                            <li><a href="#about">关于我</a></li>
+                            <!-- <li><a href="#services">Services</a></li> -->
+                            <li><a href="#portfolio">图片欣赏</a></li>
+                            <li><a href="#services">我的项目</a></li>
+                            <li><a href="#contact">联系我</a></li>
+                        </ul>
+                    </div>
+                    <div class="leftpart_bottom">
+                        <div class="social_wrap">
+                            <ul>
+                                <li><a href="#"><i class="xcon-facebook"></i></a></li>
+                                <li><a href="#"><i class="xcon-twitter"></i></a></li>
+                                <li><a href="#"><i class="xcon-linkedin"></i></a></li>
+                                <li><a href="#"><i class="xcon-instagram"></i></a></li>
+                                <li><a href="#"><i class="xcon-behance"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <a class="arlo_tm_resize" href="#"><i class="xcon-angle-left"></i></a>
+                </div>
+            </div>
+            <!-- /LEFTPART -->
+
+            <!-- RIGHTPART -->
+            <div class="arlo_tm_rightpart">
+                <div class="rightpart_inner">
+                    <div class="arlo_tm_section" id="home">
+                        <div class="arlo_tm_hero_header_wrap">
+                            <div class="arlo_tm_universal_box_wrap">
+                                <div class="bg_wrap">
+                                    <div class="overlay_image hero jarallax" data-speed="0.1"></div>
+                                    <div class="overlay_color hero"></div>
+                                </div>
+                                <div class="content hero">
+                                    <div class="inner_content">
+                                        <div class="image_wrap">
+                                            <img src="/home/img/hero/my.png" alt="" />
+                                        </div>
+                                        <div class="name_holder">
+                                            <h3>个人<span>简历</span></h3>
+                                        </div>
+                                        <div class="text_typing">
+                                            <p>我是 <span class="arlo_tm_animation_text_word"></span></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="arlo_tm_arrow_wrap bounce anchor">
+                                    <a href="#about"><i class="xcon-angle-double-down"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ABOUT -->
+                    <div class="arlo_tm_section relative" id="about">
+                        <div class="arlo_tm_about_wrapper_all">
+                            <div class="container">
+                                <div class="arlo_tm_title_holder">
+                                    <h3>关于 我</h3>
+                                    <span>关于我的主要信息</span> </div>
+                                <div class="arlo_tm_about_wrap">
+                                    <div class="author_wrap">
+                                        <div class="leftbox">
+                                            <div class="about_image_wrap parallax" data-relative-input="true">
+                                                <div class="image layer" data-depth="0.1">
+                                                    <img src="/home/img/about/550x640.jpg" alt="" />
+                                                    <div class="inner" data-img-url="img/about/1.jpg"></div>
+                                                </div>
+                                                <div class="border layer" data-depth="0.2">
+                                                    <img src="/home/img/about/550x640.jpg" alt="" />
+                                                    <div class="inner"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="rightbox">
+                                            <div class="arlo_tm_mini_title_holder">
+                                                <h4>我的名字是 张子典,是<span class="arlo_tm_animation_text_word"></span></h4>
+                                            </div>
+                                            <div class="definition">
+                                                <p>你好! 我叫 <strong>张子典</strong>. 目前大三,就读于武汉晴川学院,专业是软件工程. 我应聘的是前端工程师这一岗位, 我对工作很有激情,很投入,我的学习能力很强. 目前结合学校学到的和自己自学的,我认为我已具备基础前端工程师的技术 .</p>
+                                            </div>
+                                            <div class="about_short_contact_wrap">
+                                                <ul>
+                                                    <li>
+                                                        <span><label>生日:</label> 0505</span> </li>
+                                                    <li>
+                                                        <span><label>年龄:</label> 21</span> </li>
+                                                    <li>
+                                                        <span><label>性别:</label> 女</span> </li>
+
+                                                    <li>
+                                                        <span><label>所在城市:</label> 武汉</span> </li>
+                                                    <li>
+                                                        <span><label>爱好:</label>敲代码,vlog,画画</span> </li>
+                                                    <li>
+                                                        <span><label>岗位:</label> web工程师</span> </li>
+                                                    <li>
+                                                        <span><label>学历:</label> 本科全日制4年</span> </li>
+
+                                                    <li>
+                                                        <span><label>电话:</label> <a href="#">15172387700</a></span> </li>
+
+                                                </ul>
+                                            </div>
+                                            <div class="buttons_wrap">
+                                                <ul>
+                                                    <li>
+                                                        <a href="#"><span>下载 简历</span></a> </li>
+                                                    <li class="anchor">
+                                                        <a href="#contact"><span>联系我</span></a> </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /ABOUT -->
+
+                    <!-- SKILLS -->
+                    <div class="arlo_tm_section">
+                        <div class="arlo_tm_skills_wrap">
+                            <div class="container">
+                                <div class="inner_wrap">
+                                    <div class="leftbox">
+                                        <div class="arlo_tm_mini_title_holder">
+                                            <h4>关于我掌握的技能</h4>
+                                        </div>
+                                        <p>1.html css javascript基础</p>
+                                        <p>2.掌握git指令 有自己开源库 </p>
+                                        <p>3.了解vue.js和React框架</p>
+                                        <p>4.掌握node.js后端编程语言</p>
+                                        <p>5.了解微信小程序</p>
+                                    </div>
+                                    <div class="rightbox">
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /SKILLS -->
+                    <!-- PORTFOLIO -->
+                    <div class="arlo_tm_section relative" id="portfolio">
+                        <div class="arlo_tm_portfolio_wrapper_all">
+
+                            <!-- PORTFOLIO FILTER -->
+                            <div class="arlo_tm_second_portfolio">
+                                <div class="container">
+                                    <div class="arlo_tm_portfolio_wrap">
+                                        <div class="arlo_tm_title_holder portfolio">
+                                            <h3>切换栏</h3>
+                                            <span>图片欣赏</span> </div>
+                                        <div class="arlo_tm_portfolio_titles"></div>
+                                        <ul class="arlo_tm_portfolio_filter">
+                                            <li><a href="#" class="current" data-filter="*">All</a></li>
+                                            <li><a href="#" data-filter=".design">Design</a></li>
+                                            <li><a href="#" data-filter=".photography">Photography</a></li>
+                                            <li><a href="#" data-filter=".development">Development</a></li>
+                                        </ul>
+                                        <ul class="arlo_tm_portfolio_list gallery_zoom">
+                                            <li class="design">
+                                                <div class="entry arlo_tm_portfolio_animation_wrap" data-title="Aoc Productions" data-category="Design">
+                                                    <a href="portfolio-single.html">
+                                                        <img src="/home/img/portfolio/600x600.jpg" alt="" />
+                                                        <div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/1.jpg"></div>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                            <li class="photography">
+                                                <div class="entry arlo_tm_portfolio_animation_wrap" data-title="Ind Hed" data-category="Photography">
+                                                    <a href="portfolio-single.html">
+                                                        <img src="img/portfolio/600x600.jpg" alt="" />
+                                                        <div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/2.jpg"></div>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                            <li class="development">
+                                                <div class="entry arlo_tm_portfolio_animation_wrap" data-title="Paper Mockup" data-category="Development">
+                                                    <a href="portfolio-single.html">
+                                                        <img src="/home/img/portfolio/600x600.jpg" alt="" />
+                                                        <div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/3.jpg"></div>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                            <li class="photography">
+                                                <div class="entry arlo_tm_portfolio_animation_wrap" data-title="The Nordic" data-category="Photography">
+                                                    <a href="portfolio-single.html">
+                                                        <img src="/home/img/portfolio/600x600.jpg" alt="" />
+                                                        <div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/4.jpg"></div>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                            <li class="design">
+                                                <div class="entry arlo_tm_portfolio_animation_wrap" data-title="Creatives Castle" data-category="Design">
+                                                    <a href="portfolio-single.html">
+                                                        <img src="/home/img/portfolio/600x600.jpg" alt="" />
+                                                        <div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/5.jpg"></div>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                            <li class="photography">
+                                                <div class="entry arlo_tm_portfolio_animation_wrap" data-title="White Bag" data-category="Photography">
+                                                    <a href="portfolio-single.html">
+                                                        <img src="/home/img/portfolio/600x600.jpg" alt="" />
+                                                        <div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/6.jpg"></div>
+                                                    </a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /PORTFOLIO FILTER -->
+
+                        </div>
+                    </div>
+                    <!-- /PORTFOLIO -->
+
+
+                    <div class="arlo_tm_section" id="services">
+                        <div class="arlo_tm_services_wrap">
+                            <div class="container">
+                                <div class="arlo_tm_title_holder">
+                                    <h3>项目展示</h3>
+                                    <span>我做过的项目</span> </div>
+                                <div class="list_wrap">
+                                    <ul>
+                                        <li>
+                                            <div class="inner">
+
+                                                <div class="title_service">
+                                                    <h3>个人简历网站</h3>
+                                                </div>
+                                                <div class="text">
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner">
+                                                <div class="title_service">
+                                                    <h3>微信小程序</h3>
+                                                </div>
+                                                <div class="text">
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="inner">
+                                                <div class="title_service">
+                                                    <h3></h3>
+                                                </div>
+                                                <div class="text">
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- CONTACT & FOOTER -->
+                    <div class="arlo_tm_section" id="contact">
+                        <div class="container">
+                            <div class="arlo_tm_title_holder contact">
+                                <h3>联系 我</h3>
+                                <span>如 果 觉 得 还 不 错 填 写 一 下 表 单 吧 </span>
+                                
+                                 </div>
+                        </div>
+                        <div class="arlo_tm_footer_contact_wrapper_all">
+                            <div class="arlo_tm_contact_wrap_all">
+                                <div class="container">
+                                    <div class="leftbox">
+                                        <div class="arlo_tm_mini_title_holder contact">
+                                            <h4>联 系 我</h4>
+                                        </div>
+                                        <div class="short_info_wrap">
+                                            <ul>
+                                                <li>
+                                                    <p><label>希望地址:</label><span>杭州 武汉</span></p>
+                                                </li>
+                                                <li>
+                                                    <p><label>邮箱:</label><span><a href="mailto:XXX">1689706928@qq.com</a></span></p>
+                                                </li>
+                                                <li>
+                                                    <p><label>电话:</label><span>15172387700</span></p>
+                                                </li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="rightbox">
+                                        <div class="arlo_tm_contact_wrap">
+                                            <div class="main_input_wrap">
+                                                <form action="/home/default" method="post" class="contact_form" id="contact_form">
+                                                    <div class="returnmessage" data-success="Your message has been received, We will contact you soon."></div>
+                                                    <div class="empty_notice"><span>填写您的信息</span></div>
+                                                    <div class="wrap">
+                                                        <input name="username" id="name" type="text" placeholder="对您的称呼">
+                                                    </div>
+                                                    <div class="wrap">
+                                                        <input name="email" id="email" type="email" placeholder="您的邮箱">
+                                                    </div>
+                                                    <div class="wrap">
+                                                        <input name="number" id="number" type="number" placeholder="您的电话">
+                                                    </div>
+                                                    <div class="wrap">
+                                                        <input name="message" id="message" type="text" placeholder="您的一些建议">
+                                                    </div>
+                                                    <div class="arlo_tm_button">
+                                                        <!-- <a id="send_message" type="submit" href="#"><span>发送 消息</span></a> -->
+                                                        <button class="button" type="submit">发送 消息</button>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="arlo_tm_footer_wrap">
+                                <div class="container">
+                                    <p>个人简历 &copy; 张子典 年龄21 应聘前端工程师 .</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /CONTACT & FOOTER -->
+
+                </div>
+            </div>
+            <!-- /RIGHTPART -->
+
+            <a class="arlo_tm_totop" href="#"></a>
+
+        </div>
+    </div>
+    <!-- / WRAPPER ALL -->
+
+    <!-- SCRIPTS -->
+    <script src="/home/js/jquery.js"></script>
+    <!--[if lt IE 10]> <script type="text/javascript" src="js/ie8.js"></script> <![endif]-->
+    <script src="/home/js/plugins.js"></script>
+    <script src="/home/js/init.js"></script>
+    <script src="/home/js/common.js"></script>
+    <!-- /SCRIPTS -->
+
+    <script type="text/javascript">
+        function serializeTOJson(form) {
+            var result = {};
+            var f = form.serializeArray();
+            f.forEach(function(item) {
+                result[item.name] = item.value;
+
+            });
+            return result;
+        }
+        //为表单添加提交事件
+        $('#contact_form').on('submit', function() {
+            //获取到表单中用户输入的内容
+            //[]
+            var result = serializeTOJson($(this));
+            //如果用户没有输入姓名
+            if (result.username.trim().length == 0) {
+                alert('请输入姓名');
+                //阻止程序向下执行
+                return false
+            };
+            //如果用户没有输入邮件地址的话
+            if (result.email.trim().length == 0) {
+                alert('请输入邮件地址');
+                //阻止程序向下执行
+                return false
+            };
+            //如果用户没有输入手机号码
+            if (result.number.trim().length == 0) {
+                alert('请输入手机号码');
+                //阻止程序向下执行
+                return false
+            };
+
+
+        });
+    </script>
+    <style>
+        .copyrights {
+            text-indent: -9999px;
+            height: 0;
+            line-height: 0;
+            font-size: 0;
+            overflow: hidden;
+        }
+    </style>
+
+</body>
+
+</html>
